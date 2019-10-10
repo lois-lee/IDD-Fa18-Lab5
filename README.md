@@ -28,7 +28,12 @@ I used the provided code.
 
 Include here:
 [Provided Arduino code](jack.ino)
+
 [SVG File](jack.stl)
+
 ![](jack.png)
-[Video Demo 1](https://drive.google.com/file/d/1YU0JVW7glcSnH1a0vKTh06KeZkI0wlxF/view?usp=sharing)
-[Video Demo 2](https://drive.google.com/file/d/1mXYhE_CKGA1CBWbrzAKCItbYgy7E4cZE/view?usp=sharing)
+
+[Video Demo 1](https://drive.google.com/file/d/1mXYhE_CKGA1CBWbrzAKCItbYgy7E4cZE/view?usp=sharing)
+
+[Video Demo 2](https://drive.google.com/file/d/1YU0JVW7glcSnH1a0vKTh06KeZkI0wlxF/view?usp=sharing)
+
